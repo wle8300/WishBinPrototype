@@ -14,4 +14,10 @@ Typeface:
 - Montserrat
 
 Text body color: 
-- Gray
+- 808080
+
+Monochrome Scale:
+- Gray:
+— 808080
+- Light Gray
+— C0C0C0
