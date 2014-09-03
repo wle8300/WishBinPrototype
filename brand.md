@@ -21,3 +21,6 @@ Monochrome Scale:
 — 808080
 - Light Gray
 — C0C0C0
+
+“Stars”:
+- FEEE6F
