@@ -5,7 +5,7 @@ Info:
 - DFB093 + FFA76E
 
 Success:
-- asdf
+- 3D9970 + 4CC784
 
 Error:
 - asdf
@@ -22,5 +22,15 @@ Monochrome Scale:
 - Light Gray
 — C0C0C0
 
-“Stars”:
+“stars”:
 - FEEE6F
+
+“stockCount”
+- Unknown:
+— asdf
+- 3/more:
+— blue
+- 2:
+—	DBCAE0 + 
+- 1:
+—	red
