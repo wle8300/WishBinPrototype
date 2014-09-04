@@ -1,5 +1,5 @@
 Brand:
-- FFDC00
+- FDA21F
 
 Info:
 - DFB093 + FFA76E
@@ -31,6 +31,6 @@ Monochrome Scale:
 - 3/more:
 — blue
 - 2:
-—	DBCAE0 + 
+—	BE9FC6 + ??
 - 1:
 —	red
