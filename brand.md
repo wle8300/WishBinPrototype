@@ -1,4 +1,8 @@
-shoes, books, garden, jewelery, kitchen, electronics, appliances, video games, music, personal health care, clothes
+shoes, books, garden, jewelry, kitchen, electronics, appliances, video games, music, personal health care, clothes
+
+NB shoe, tiffany, mule cup,
+gilead, NIKE Lunar, trowel,
+battlefield 4, rokspresso, 
 
 Brand:
 - FDA21F
