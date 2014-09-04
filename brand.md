@@ -1,3 +1,5 @@
+shoes, books, garden, jewelery, kitchen, electronics, appliances, video games, music, personal health care, clothes
+
 Brand:
 - FDA21F
 
