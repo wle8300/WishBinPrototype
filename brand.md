@@ -45,4 +45,4 @@ price:
 - 2 (purple):
 —	B897C0 (50Tp)
 - 1 (red):
-—	asdf
+—	FF4136 (50Tp)
