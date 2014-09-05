@@ -39,7 +39,7 @@ price:
 
 “stockCount”
 - In Stock/Unknown (green):
-— 2ECC40 (50Tp)
+— 2ECC40 (60Tp)
 - 3/more (blue):
 — 39CCCC (50Tp)
 - 2 (purple):
