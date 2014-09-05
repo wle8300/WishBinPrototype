@@ -1,6 +1,5 @@
 shoes, books, garden, jewelry, kitchen, electronics, appliances, video games, music, personal health care, clothes
 
-tag heuer, NIKE Lunar, [book],
 [tea steeper thing], [table lamp], rokspresso
 
 Brand:
@@ -27,20 +26,23 @@ Monochrome Scale:
 - Light Gray
 — C0C0C0
 
+price:
+- E5CDA9
+
 “stars”:
 - Fill:
-— FCF47E
+— EFEB77
 - Half-Fill:
-— FEEE6F (50Tp)
+— EFEB77 (50Tp)
 - !Fill:
 — E5E5E5
 
 “stockCount”
 - In Stock/Unknown (green):
-— 2ECC40 + 89FF8B (60Tp)
+— 2ECC40 (50Tp)
 - 3/more (blue):
-— asdf
+— 39CCCC (50Tp)
 - 2 (purple):
-—	BE9FC6 + F0D7F7
+—	B897C0 (50Tp)
 - 1 (red):
 —	asdf
