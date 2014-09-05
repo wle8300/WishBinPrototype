@@ -1,7 +1,3 @@
-shoes, books, garden, jewelry, kitchen, electronics, appliances, video games, music, personal health care, clothes
-
-[tea steeper thing], [table lamp], rokspresso
-
 Brand:
 - FDA21F
 
