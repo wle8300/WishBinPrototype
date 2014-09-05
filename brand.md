@@ -34,7 +34,7 @@ price:
 — E5E5E5
 
 “stockCount”
-- In Stock/Unknown (green):
+- In Stock (green):
 — 2ECC40 (60Tp)
 - 3/more (blue):
 — 39CCCC (50Tp)
@@ -42,3 +42,5 @@ price:
 —	B897C0 (50Tp)
 - 1 (red):
 —	FF4136 (50Tp)
+- Unknown:
+— #777777 (50Tp) (no border)
