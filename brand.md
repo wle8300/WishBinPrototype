@@ -36,11 +36,11 @@ Monochrome Scale:
 — E5E5E5
 
 “stockCount”
-- “In Stock” or Unknown:
+- In Stock/Unknown (green):
 — 2ECC40 + 89FF8B (60Tp)
-- 3/more:
-— blue
-- 2:
+- 3/more (blue):
+— asdf
+- 2 (purple):
 —	BE9FC6 + F0D7F7
-- 1:
-—	red
+- 1 (red):
+—	asdf
