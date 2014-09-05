@@ -1,8 +1,7 @@
 shoes, books, garden, jewelry, kitchen, electronics, appliances, video games, music, personal health care, clothes
 
-NB shoe, tiffany, mule cup,
-gilead, NIKE Lunar, trowel,
-battlefield 4, rokspresso, 
+tag heuer, NIKE Lunar, [book],
+[tea steeper thing], [table lamp], rokspresso
 
 Brand:
 - FDA21F
@@ -32,11 +31,11 @@ Monochrome Scale:
 - FEEE6F
 
 “stockCount”
-- Unknown:
-— asdf
+- “In Stock” or Unknown:
+— 2ECC40 + 89FF8B
 - 3/more:
 — blue
 - 2:
-—	BE9FC6 + ??
+—	BE9FC6 + F0D7F7
 - 1:
 —	red
