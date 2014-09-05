@@ -28,11 +28,16 @@ Monochrome Scale:
 — C0C0C0
 
 “stars”:
-- FEEE6F
+- Fill:
+— FCF47E
+- Half-Fill:
+— FEEE6F (50Tp)
+- !Fill:
+— E5E5E5
 
 “stockCount”
 - “In Stock” or Unknown:
-— 2ECC40 + 89FF8B
+— 2ECC40 + 89FF8B (60Tp)
 - 3/more:
 — blue
 - 2:
